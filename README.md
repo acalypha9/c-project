@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the **Phone Catalog**, my **Semester 1 C project** where i got into web scraping work! This project showcases my ability to extract, clean, and manage large datasets, providing a valuable resource for anyone interested in mobile phone specifications.
+Welcome to the **Phone Catalog**, my **semester 1 of C project** where i got into web scraping work! This project showcases my ability to extract, clean, and manage large datasets, providing a valuable resource for anyone interested in mobile phone specifications.
 
 ## What is it?
 
